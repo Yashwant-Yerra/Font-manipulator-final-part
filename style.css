@@ -1,0 +1,27 @@
+.h1{
+    font-size:20px;   
+    color:orange;
+    box-shadow: 10px 10px 5px pink;
+   }
+   
+   .note_p{
+       font-size:20px;    
+       box-shadow: 10px 10px 5px yellow;
+   }
+   
+   canvas{
+       border: dashed;   
+       border-radius: 20px;
+       box-shadow: 10px 10px 10px black, 20px 20px 5px yellow;
+      
+      }
+   
+      .footer{
+       position: fixed;  
+       color: black;  
+       background-color: rgb(255, 0, 0);
+       bottom:0;
+       width:100%;
+       line-height: 10px;
+       text-align: center;
+       }
